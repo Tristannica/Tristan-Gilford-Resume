@@ -7,9 +7,9 @@
 [![StackShare](https://img.shields.io/badge/AWS%20IAM-Expert-yellowgreen)]()
 
 <details>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<script type="text/javascript" src="https://img.shields.io/badge/<AWS IAM>-<Expert>-<green>" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="tristannica"><a class="LI-simple-link" href='https://www.linkedin.com/in/tristannica?trk=profile-badge'>Tristan Gilford</a></div>
+    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="tristannica">
+        <a class="LI-simple-link" href='https://www.linkedin.com/in/tristannica?trk=profile-badge'>Tristan Gilford</a>
+    </div>
 </details>
 
 ## Table of Contents
