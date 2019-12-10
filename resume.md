@@ -7,6 +7,7 @@
 [![StackShare](https://img.shields.io/badge/AWS%20IAM-Expert-yellowgreen)]()
 
 <details>
+<summary>"Profiles"</summary>
     <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="tristannica">
         <a class="LI-simple-link" href='https://www.linkedin.com/in/tristannica?trk=profile-badge'>Tristan Gilford</a>
     </div>
